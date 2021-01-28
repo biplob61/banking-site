@@ -1,0 +1,29 @@
+body{
+    padding: 100px;
+}
+.login-area{
+    width: 80%;
+    margin-left: 7%;
+}
+#transactionPage{
+    display: none;
+}
+.status{
+    margin: 0px 10px;
+    border-radius: 10px;
+    height: 150px;
+    padding: 20px 5px;
+    color: white;
+}
+.Deposit{
+    background-color: slateblue;
+}
+.Withdraw{
+    background-color: lightsalmon;
+}
+.Balance{
+    background-color: orange;
+}
+.card-area{
+    width: 40%;
+}
